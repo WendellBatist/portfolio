@@ -8,5 +8,5 @@ O controle desse portfólio será realizado no GitHub
 
 - :package: Nova Funcionalidade
 - :up: Atualização
-- :beetle: Correção de bug
+- :honeybee: Correção de bug
 - :checkered_flag: release
