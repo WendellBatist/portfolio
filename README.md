@@ -10,3 +10,6 @@ O controle desse portfólio será realizado no GitHub
 - :up: Atualização
 - :honeybee: Correção de bug
 - :checkered_flag: release
+
+## 3 pagina
+Falta adaptar minha pagina as mnhas necessidades.
