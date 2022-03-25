@@ -26,7 +26,7 @@
                 <img src="imagens/bg.jpg" alt="">
             </div>
             <div class="banner">
-                <h1>Web Developer &  Front End Designer</h1>
+                <h1>Web Developer<br> &  Front End Designer</h1>
                 <p>Wendell Batist</p>
                 <botton>Saiba Mais</botton>
             </div>           
@@ -221,8 +221,31 @@
                 </div>
             </div>
         </section>
-
-
+        <section class="sessao-orcamento">
+            <div class="orcamento-wrapper">
+                <h1>Farça um orçamento</h1>
+                <form action="">
+                    <label for="qtde">Qtde de Página</label>
+                    <input type="number" min="1" name="qtde" id="qtde">
+                    <label for="js">Preciso de um Script JS</label>
+                    <input type="checkbox" name="js" id="js">
+                    <label>Layout</label>
+                    <div class="group-layout">    
+                        <div>
+                            <input type="radio" name="layout" id="layout-sim">
+                            <label for="layout-sim">Preciso de um Layout</label>
+                        </div>
+                        <div>
+                            <input type="radio" name="layout" id="layout-nao">
+                            <label for="layout-nao">Já tenho um layout</label>
+                        </div>
+                    </div>
+                    <label for="prazo">Prazo</label>
+                    <input type="range" name="prazo" id="prazo">
+                    <button class="btn btn-orcamento" type="submit">Enviar</button>
+            </form>
+            </div>
+        </section>
     </div>
 </body>
 
