@@ -30,6 +30,7 @@ html{
     flex-direction: column;
     justify-content: space-evenly;
     cursor: pointer;
+    z-index: 160;
 }
 
 .show-menu .hamburguer{
@@ -69,6 +70,7 @@ html{
     color: #fff;
     font-family: var(--font-action);
     opacity: 0;
+    
 }
 
 .hamburguer span::before{
